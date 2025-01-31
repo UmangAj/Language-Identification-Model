@@ -44,7 +44,7 @@ To run the model locally, follow these steps:
 4. The model will display the predicted language.
 
 ## Deployment
-The application is deployed on **Streamlit Cloud**. You can access it here: [Streamlit App Link](<https://language-identification-model.streamlit.app/>)
+The application is deployed on **Streamlit Cloud**. You can access it here: [language-identification-model](<https://language-identification-model.streamlit.app/>)
 
 ## Technologies Used
 - Python
