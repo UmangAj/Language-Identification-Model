@@ -49,5 +49,5 @@ The application is deployed on **Streamlit Cloud**. You can access it here: [lan
 ## Technologies Used
 - Python
 - Streamlit
-- Scikit-learn / TensorFlow / Any other ML library used
+- Scikit-learn / Any other ML library used
 - NLP techniques for language detection
