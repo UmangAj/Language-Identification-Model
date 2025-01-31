@@ -44,33 +44,10 @@ To run the model locally, follow these steps:
 4. The model will display the predicted language.
 
 ## Deployment
-The application is deployed on **Streamlit Cloud**. You can access it here: [Streamlit App Link](<your_streamlit_link>)
+The application is deployed on **Streamlit Cloud**. You can access it here: [Streamlit App Link](<https://language-identification-model.streamlit.app/>)
 
 ## Technologies Used
 - Python
 - Streamlit
 - Scikit-learn / TensorFlow / Any other ML library used
 - NLP techniques for language detection
-
-## Future Enhancements
-- Improve model accuracy with a larger dataset
-- Add more languages
-- Enhance the UI for better user experience
-
-## Contributing
-If you'd like to contribute:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m "Add new feature"`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a Pull Request.
-
-## License
-This project is licensed under the **MIT License**.
-
----
-
-For any queries, feel free to reach out!
-
-📧 Contact: [Your Email or GitHub Profile]
-
